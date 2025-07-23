@@ -1,7 +1,7 @@
 
 ---
 
-## 🏋️ Gym Management System – Java Swing App
+## 🏋️ 3. Gym Management System – Java Swing App
 
 ```markdown
 # 🏋️ Gym Management System – Java Desktop App
@@ -26,4 +26,3 @@ A Java-based desktop application for gym management, handling registration, book
 git clone https://github.com/habibaelghazouly/GymManagement.git
 cd GymManagement
 
-# Open with an IDE and run the main class
